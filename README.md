@@ -91,3 +91,6 @@ pip install -r requirements.txt
   - `pandas==1.3.5`
 
 ---
+
+## Author
+Ethan Elkaim, Samuel Guetta
