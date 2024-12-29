@@ -91,6 +91,3 @@ pip install -r requirements.txt
   - `pandas==1.3.5`
 
 ---
-
-## License
-Include your preferred license, e.g., MIT License.
